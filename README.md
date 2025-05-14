@@ -27,9 +27,17 @@ I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, an
 ---
 Devops
 <p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-digitalocean-the-cloud-infrastructure-provider-logo-shadow-tal-revivo.png" height="40"/>
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="aws" height="40"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" height="40"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="ci/cd" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" alt="grpc" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" height="40"/>
 </p>
+
 
 ---
 Github Status :
