@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+💻+code+every+day;I+love+solving+real-world+problems&center=true&width=500&height=50" />
 </p>
 
-I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, and cloud technologies. I thrive on building robust pipelines and scalable solutions.
+I'm a **Senior Software Engineer at Infozech Software** specializing in DevOps, CI/CD, and cloud technologies. I thrive on building robust pipelines and scalable solutions.
 
 
 <p align="left">
@@ -27,7 +27,7 @@ I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, an
 ---
 Devops
 <p align="left">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="aws" height="40"/>
+  <img src="https://iconscout.com/lottie-animation/github-12686513_10317020" alt="aws" height="40"/>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" height="40"/>
