@@ -1,7 +1,7 @@
 # Hi, I'm [Abhishek Vishwakarma] 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+💻+make+deployment+easy;I+love+Cloud+and+Devops&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+💻+Make+Deployment+Easy;I+love+Cloud+and+Devops&center=true&width=500&height=50" />
 </p>
 
 I'm a **Senior Software Engineer at Infozech Software** specializing in DevOps, CI/CD, and cloud technologies. I thrive on building robust pipelines and scalable solutions.
@@ -13,12 +13,12 @@ I'm a **Senior Software Engineer at Infozech Software** specializing in DevOps, 
  
 </p>
 contribution streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhivishwa07&theme=radical)
 
 Shields.io Badges
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=flat)
-![Top Language](https://img.shields.io/github/languages/top/your-username/your-repo)
+![GitHub followers](https://img.shields.io/github/followers/abhivishwa07?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/abhivishwa07?affiliations=OWNER%2CCOLLABORATOR&style=flat)
+![Top Language](https://img.shields.io/github/languages/top/abhivishwa07/abhivishwa07)
 
 ---
 
