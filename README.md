@@ -58,14 +58,9 @@ Here are a few projects I've worked on:
 
 ## 🌐 Connect with Me
 
-- **Telegram Community:** <a href="https://t.me/devopsandsredocs" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" style="margin-right: 10px;"/>
-</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/abhishek-vishwakarma-b6359b15b/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
-</a>
-- **YouTube:** <a href="https://www.youtube.com/@devopswithabhi07" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="40" height="40" style="margin-right: 10px;"/>
-</a>
 
---- 
+- **Telegram Community:** [Join Here](https://t.me/devopsandsredocs)
+- - **LinkedIn:** [Connect Me](href="https://www.linkedin.com/in/abhishek-vishwakarma-b6359b15b/)
+- - **YouTube:** [Watch Devops Videos](https://www.youtube.com/@devopswithabhi07)
+
+---
