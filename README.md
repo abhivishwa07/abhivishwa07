@@ -1,8 +1,19 @@
-# Hi, I'm [Abhishek Vishwakarma] 👋 <p align="center">
+# Hi, I'm [Abhishek Vishwakarma] 👋 
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+💻+code+every+day;I+love+solving+real-world+problems&center=true&width=500&height=50" />
 </p>
 
 I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, and cloud technologies. I thrive on building robust pipelines and scalable solutions.
+
+### 📊 Databases and Monitoring
+
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/FA5252/prometheus.png" height="40"/>
+  <img src="https://influxdata.github.io/branding/img/influxdata-logo-stacked.png" height="40"/>
+  <img src="https://img.icons8.com/color/96/postgreesql.png" height="40"/>
+  <img src="https://grafana.com/static/assets/img/fav32.png" height="40"/>
+</p>
 
 ---
 
