@@ -60,7 +60,7 @@ Here are a few projects I've worked on:
 
 
 - **Telegram Community:** [Join Here](https://t.me/devopsandsredocs)
-- - **LinkedIn:** [Connect Me](href="https://www.linkedin.com/in/abhishek-vishwakarma-b6359b15b/)
+- - **LinkedIn:** [Connect Me](https://www.linkedin.com/in/abhishek-vishwakarma-b6359b15b/)
 - - **YouTube:** [Watch Devops Videos](https://www.youtube.com/@devopswithabhi07)
 
 ---
