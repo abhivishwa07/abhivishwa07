@@ -32,6 +32,11 @@ I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, an
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" width="48%" />
+</p>
+
 ---
 
 ## 🔍 My Projects
