@@ -1,4 +1,6 @@
-# Hi, I'm [Abhishek Vishwakarma] 👋
+# Hi, I'm [Abhishek Vishwakarma] 👋 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+💻+code+every+day;I+love+solving+real-world+problems&center=true&width=500&height=50" />
+</p>
 
 I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, and cloud technologies. I thrive on building robust pipelines and scalable solutions.
 
@@ -33,17 +35,13 @@ I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, an
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-
+Github Status :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhivishwa07&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhivishwa07&theme=radical" width="48%" />
 </p>
 
----------------------
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+💻+code+every+day;I+love+solving+real-world+problems&center=true&width=500&height=50" />
-</p>
--------------------
+----
 
 ## 🔍 My Projects
 Here are a few projects I've worked on:
