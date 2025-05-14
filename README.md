@@ -15,9 +15,7 @@ I'm a **Senior Software Engineer at Infozech Software** specializing in DevOps, 
     <a href="https://cloud.google.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="100" height="100"/>
 </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="100" height="100"/>
-</a>
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="100"/>
  <a href="https://www.docker.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="100" height="100"/>
@@ -30,14 +28,9 @@ I'm a **Senior Software Engineer at Infozech Software** specializing in DevOps, 
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="100" height="100"/>
 </a>
 <a href="https://prometheus.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="100" height="100"/>
 </a>
 </p>
-
-Shields.io Badges
-![GitHub followers](https://img.shields.io/github/followers/abhivishwa07?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/abhivishwa07?affiliations=OWNER%2CCOLLABORATOR&style=flat)
-![Top Language](https://img.shields.io/github/languages/top/abhivishwa07/abhivishwa07)
 
 ---
 
