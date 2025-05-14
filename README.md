@@ -10,11 +10,14 @@ I'm a **Senior Software Engineer at Infozech Software** specializing in DevOps, 
 ## ⚙️ Cloud, DevOps & Monitoring Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="100"/>
- 
-</p>
-contribution streak:
+ <a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhivishwa07&theme=radical)
+</p>
 
 Shields.io Badges
 ![GitHub followers](https://img.shields.io/github/followers/abhivishwa07?label=Followers&style=social)
