@@ -25,13 +25,10 @@ I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, an
 - **Monitoring Tools:** Prometheus, Grafana
 
 ---
-### 📊 Databases and Monitoring
-
+Devops
 <p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-prometheus-a-cloud-native-computing-foundation-project-logo-filled-tal-revivo.png" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/79975637?s=200&v=4" height="40" alt="influxdata"/>
-  <img src="https://grafana.com/static/img/menu/grafana2.svg" height="40" alt="grafana"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-digitalocean-the-cloud-infrastructure-provider-logo-shadow-tal-revivo.png" height="40"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="aws" height="40"/>
 </p>
 
 ---
