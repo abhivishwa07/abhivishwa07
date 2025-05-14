@@ -62,5 +62,17 @@ Here are a few projects I've worked on:
 - **YouTube:** [Watch My Videos](https://www.youtube.com/@devopswithabhi07)
 
 ---
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/abhishek-vishwakarma-b6359b15b/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+</a>
 
-*Thanks for stopping by!*
+<!-- Telegram -->
+<a href="https://t.me/devopsandsredocs" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/@devopswithabhi07" target="_blank">
+ YT :  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="40" height="40" style="margin-right: 10px;"/>
+</a>
