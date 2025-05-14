@@ -6,15 +6,15 @@
 
 I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, and cloud technologies. I thrive on building robust pipelines and scalable solutions.
 
-### 📊 Databases and Monitoring
-
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/FA5252/prometheus.png" height="40"/>
-  <img src="https://influxdata.github.io/branding/img/influxdata-logo-stacked.png" height="40"/>
-  <img src="https://img.icons8.com/color/96/postgreesql.png" height="40"/>
-  <img src="https://grafana.com/static/assets/img/fav32.png" height="40"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-fastapi-a-modern-web-framework-for-building-apis-with-python-based-on-standard-python-type-hints-logo-color-tal-revivo.png" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-ci-cd-devops-flat-flat-juicy-fish.png" height="40"/>
+  <img src="https://grpc.io/img/logos/grpc-icon-color.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" height="40"/>
 </p>
-
 ---
 
 ## 🚀 Tools and Technology
