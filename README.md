@@ -7,15 +7,19 @@
 I'm a **Senior Software Engineer at Infozech Software** specializing in DevOps, CI/CD, and cloud technologies. I thrive on building robust pipelines and scalable solutions.
 
 
+## ⚙️ Cloud, DevOps & Monitoring Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" height="100"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="ci/cd" height="100"/>
-  <img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" alt="grpc" height="100"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="100"/>
-  <img src="https://img.icons8.com/color/48/css3.png" height="100"/>
+ 
+  <img src="https://cdn.dribbble.com/users/19798/screenshots/5604185/docker.gif" alt="Docker" height="100"/>
+  <img src="https://cdn.dribbble.com/users/60166/screenshots/11195329/media/58ff3e463e6c63e6b1bce37ec965e83e.gif" alt="Kubernetes" height="100"/>
+  <img src="https://cdn.dribbble.com/users/305035/screenshots/5585342/prometheus.gif" alt="Prometheus" height="100"/>
+  <img src="https://cdn.dribbble.com/users/869577/screenshots/14401974/media/14eb99c7bb80b64cd97339adf93d404a.gif" alt="Grafana" height="100"/>
+  <img src="https://cdn.dribbble.com/users/139790/screenshots/2576604/media/f7717f3f08c3373f36baf5a573236b18.gif" alt="AWS" height="100"/>
+  <img src="https://cdn.dribbble.com/users/1220876/screenshots/6293747/media/ce4b15c6f452c71d92e4459c74b15e57.gif" alt="GCP" height="100"/>
+  <img src="https://cdn.dribbble.com/users/76945/screenshots/2949563/media/0d8f351bfb689314b49c4e31042628f3.gif" alt="Azure" height="100"/>
 </p>
+
 ---
 
 ## 🚀 Tools and Technology
