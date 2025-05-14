@@ -25,28 +25,16 @@ I'm a **Senior Engineer at Infozech Software** specializing in DevOps, CI/CD, an
 - **Monitoring Tools:** Prometheus, Grafana
 
 ---
+### 📊 Databases and Monitoring
 
-## 🌐 Connect with Me
-- **Telegram Community:** [Join Here](https://t.me/devopsandsredocs)
-- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/abhishek-vishwakarma-b6359b15b/)
-- **YouTube:** [Watch My Videos](https://www.youtube.com/@devopswithabhi07)
+<p align="left">
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-prometheus-a-cloud-native-computing-foundation-project-logo-filled-tal-revivo.png" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/79975637?s=200&v=4" height="40" alt="influxdata"/>
+  <img src="https://grafana.com/static/img/menu/grafana2.svg" height="40" alt="grafana"/>
+</p>
 
 ---
-
-## 🔧 Tools & Technologies
-![Azure DevOps](https://img.shields.io/badge/AzureDevOps-0078D4?logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
 Github Status :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhivishwa07&show_icons=true&theme=radical" width="48%" />
@@ -62,8 +50,10 @@ Here are a few projects I've worked on:
 - **Project 3:** Wanderlust-- 
 ---
 
-## 📬 Get in Touch
-Feel free to reach out if you'd like to collaborate or just say hi!
+## 🌐 Connect with Me
+- **Telegram Community:** [Join Here](https://t.me/devopsandsredocs)
+- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/abhishek-vishwakarma-b6359b15b/)
+- **YouTube:** [Watch My Videos](https://www.youtube.com/@devopswithabhi07)
 
 ---
 
